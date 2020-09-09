@@ -55,5 +55,8 @@
   },
   "files": [
     "lib"
-  ]
+  ],
+  "dependencies": {
+    "@alitajs/utils": "^2.5.12"
+  }
 }

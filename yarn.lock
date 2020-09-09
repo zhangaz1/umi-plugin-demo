@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@alitajs/utils@^2.5.12":
+  version "2.5.12"
+  resolved "https://registry.npm.taobao.org/@alitajs/utils/download/@alitajs/utils-2.5.12.tgz#06b8699ef3ae5ae57c144cb194d2e81e284ccf33"
+  integrity sha1-BrhpnvOuWuV8FEyxlNLoHihMzzM=
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.8.3":
   version "7.10.4"
   resolved "https://registry.npm.taobao.org/@babel/code-frame/download/@babel/code-frame-7.10.4.tgz#168da1a36e90da68ae8d49c0f1b48c7c6249213a"
@@ -3691,7 +3696,7 @@
     "@umijs/utils" "3.2.19"
     webpack-chain "6.5.1"
 
-"@umijs/utils@3.2.19":
+"@umijs/utils@3.2.19", "@umijs/utils@^3.2.19":
   version "3.2.19"
   resolved "https://registry.npm.taobao.org/@umijs/utils/download/@umijs/utils-3.2.19.tgz?cache=0&sync_timestamp=1598607698762&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Futils%2Fdownload%2F%40umijs%2Futils-3.2.19.tgz#f7a66de71a782efe0d20bd5b0fcef0a0a98d71a9"
   integrity sha1-96Zt5xp4Lv4NIL1bD87woKmNcak=
